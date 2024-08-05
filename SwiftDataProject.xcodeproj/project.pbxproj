@@ -12,6 +12,7 @@
 		5BD1C9862C5AFC960068DF4E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BD1C9852C5AFC960068DF4E /* Assets.xcassets */; };
 		5BD1C9892C5AFC960068DF4E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BD1C9882C5AFC960068DF4E /* Preview Assets.xcassets */; };
 		5BD1C9902C60775E0068DF4E /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BD1C98F2C60775E0068DF4E /* User.swift */; };
+		5BD1C9922C6078310068DF4E /* EditUserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BD1C9912C6078310068DF4E /* EditUserView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		5BD1C9852C5AFC960068DF4E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5BD1C9882C5AFC960068DF4E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5BD1C98F2C60775E0068DF4E /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		5BD1C9912C6078310068DF4E /* EditUserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditUserView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			isa = PBXGroup;
 			children = (
 				5BD1C9812C5AFC950068DF4E /* SwiftDataProjectApp.swift */,
+				5BD1C9912C6078310068DF4E /* EditUserView.swift */,
 				5BD1C9832C5AFC950068DF4E /* ContentView.swift */,
 				5BD1C98F2C60775E0068DF4E /* User.swift */,
 				5BD1C9852C5AFC960068DF4E /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BD1C9842C5AFC950068DF4E /* ContentView.swift in Sources */,
+				5BD1C9922C6078310068DF4E /* EditUserView.swift in Sources */,
 				5BD1C9822C5AFC950068DF4E /* SwiftDataProjectApp.swift in Sources */,
 				5BD1C9902C60775E0068DF4E /* User.swift in Sources */,
 			);
