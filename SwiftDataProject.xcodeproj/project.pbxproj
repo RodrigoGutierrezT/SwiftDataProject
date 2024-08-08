@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5B88DB952C647C6D003644EE /* Job.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B88DB942C647C6D003644EE /* Job.swift */; };
 		5BD1C9822C5AFC950068DF4E /* SwiftDataProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BD1C9812C5AFC950068DF4E /* SwiftDataProjectApp.swift */; };
 		5BD1C9842C5AFC950068DF4E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BD1C9832C5AFC950068DF4E /* ContentView.swift */; };
 		5BD1C9862C5AFC960068DF4E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BD1C9852C5AFC960068DF4E /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5B88DB942C647C6D003644EE /* Job.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Job.swift; sourceTree = "<group>"; };
 		5BD1C97E2C5AFC950068DF4E /* SwiftDataProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftDataProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BD1C9812C5AFC950068DF4E /* SwiftDataProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftDataProjectApp.swift; sourceTree = "<group>"; };
 		5BD1C9832C5AFC950068DF4E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				5BD1C9832C5AFC950068DF4E /* ContentView.swift */,
 				5BD1C9932C644E190068DF4E /* UsersView.swift */,
 				5BD1C98F2C60775E0068DF4E /* User.swift */,
+				5B88DB942C647C6D003644EE /* Job.swift */,
 				5BD1C9852C5AFC960068DF4E /* Assets.xcassets */,
 				5BD1C9872C5AFC960068DF4E /* Preview Content */,
 			);
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BD1C9942C644E190068DF4E /* UsersView.swift in Sources */,
+				5B88DB952C647C6D003644EE /* Job.swift in Sources */,
 				5BD1C9842C5AFC950068DF4E /* ContentView.swift in Sources */,
 				5BD1C9922C6078310068DF4E /* EditUserView.swift in Sources */,
 				5BD1C9822C5AFC950068DF4E /* SwiftDataProjectApp.swift in Sources */,
